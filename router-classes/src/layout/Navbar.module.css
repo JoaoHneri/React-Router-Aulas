@@ -1,0 +1,17 @@
+
+.list{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+
+.item{
+    margin-right: 1em;
+    
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    padding-top: 1em;
+}
